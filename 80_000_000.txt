@@ -1,0 +1,195 @@
+-----B-Tree-----
+Tworzenie tabeli...
+Generowanie danych (0)...
+Test insert
+
+            B-tree:
+                insert time: 5843.6797927
+
+Generowanie danych (1)...
+Test insert
+
+            B-tree:
+                insert time: 7008.678615500001
+
+Generowanie danych (2)...
+Test insert
+
+            B-tree:
+                insert time: 7280.195420300001
+
+Generowanie danych (3)...
+Test insert
+
+            B-tree:
+                insert time: 7416.966688899998
+
+Generowanie danych (4)...
+Test insert
+
+            B-tree:
+                insert time: 7470.473877500002
+
+Generowanie danych (5)...
+Test insert
+
+            B-tree:
+                insert time: 7552.375277100002
+
+Generowanie danych (6)...
+Test insert
+
+            B-tree:
+                insert time: 7666.2559692999985
+
+Generowanie danych (7)...
+Test insert
+
+            B-tree:
+                insert time: 7713.6656216999945
+
+Generowanie danych (8)...
+Test insert
+
+            B-tree:
+                insert time: 7726.141689900003
+
+Generowanie danych (9)...
+Test insert
+
+            B-tree:
+                insert time: 7803.798828300005
+
+Generowanie danych (10)...
+Test insert
+
+            B-tree:
+                insert time: 7839.502941999999
+
+Generowanie danych (11)...
+Test insert
+
+            B-tree:
+                insert time: 7869.662625800007
+
+Generowanie danych (12)...
+Test insert
+
+            B-tree:
+                insert time: 7936.381405899996
+
+Generowanie danych (13)...
+Test insert
+
+            B-tree:
+                insert time: 7903.497468100002
+
+Generowanie danych (14)...
+Test insert
+
+            B-tree:
+                insert time: 8073.6040446999905
+
+Generowanie danych (15)...
+Test insert
+
+            B-tree:
+                insert time: 8021.295164499999
+
+-----LSM-----
+Tworzenie tabeli...
+Generowanie danych (0)...
+Test insert
+
+            LSM:
+                insert time: 6725.475336500007
+
+Generowanie danych (1)...
+Test insert
+
+            LSM:
+                insert time: 8180.512689299998
+
+Generowanie danych (2)...
+Test insert
+
+            LSM:
+                insert time: 8794.012425500005
+
+Generowanie danych (3)...
+Test insert
+
+            LSM:
+                insert time: 9566.57049659999
+
+Generowanie danych (4)...
+Test insert
+
+            LSM:
+                insert time: 9248.023897300001
+
+Generowanie danych (5)...
+Test insert
+
+            LSM:
+                insert time: 9430.232168600007
+
+Generowanie danych (6)...
+Test insert
+
+            LSM:
+                insert time: 9560.3277599
+
+Generowanie danych (7)...
+Test insert
+
+            LSM:
+                insert time: 9754.594462599998
+
+Generowanie danych (8)...
+Test insert
+
+            LSM:
+                insert time: 10187.0011668
+
+Generowanie danych (9)...
+Test insert
+
+            LSM:
+                insert time: 10235.224534799985
+
+Generowanie danych (10)...
+Test insert
+
+            LSM:
+                insert time: 10597.334190299996
+
+Generowanie danych (11)...
+Test insert
+
+            LSM:
+                insert time: 12495.7419906
+
+Generowanie danych (12)...
+Test insert
+
+            LSM:
+                insert time: 13123.565763899998
+
+Generowanie danych (13)...
+Test insert
+
+            LSM:
+                insert time: 11690.205475399998
+
+Generowanie danych (14)...
+Test insert
+
+            LSM:
+                insert time: 12800.753229900016
+
+Generowanie danych (15)...
+Test insert
+
+            LSM:
+                insert time: 11529.918706599987
